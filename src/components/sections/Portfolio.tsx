@@ -9,7 +9,7 @@ const Portfolio = ({
     title: 'School Presidential Campaign',
     category: 'Campaign',
     thumbnail: '/Kay-works/4.jpg',
-    description: 'Complete brand identity design for an organic food company including logo, packaging, and brand guidelines.',
+    description: 'Complete campaign designs for school',
     tools: ['Adobe Illustrator', 'Photoshop'],
     role: 'Official Designer',
     images: ['/Kay-works/4.jpg', '/Kay-works/7.jpg', '/Kay-works/8.jpg']
@@ -18,7 +18,7 @@ const Portfolio = ({
     title: 'School Chapel',
     category: 'Church',
     thumbnail: '/Kay-works/6.jpg',
-    description: 'User interface design for a fitness tracking mobile application with a focus on intuitive user experience.',
+    description: 'Detailed designs for church or chapel programs',
     tools: ['Photoshop'],
     role: 'Lead Designer',
     images: ['/Kay-works/6.jpg', '/Kay-works/10.jpg', '/Kay-works/11.jpg', '/Kay-works/13.jpg']
@@ -27,7 +27,7 @@ const Portfolio = ({
     title: 'Poster Series',
     category: 'posters',
     thumbnail: '/Kay-works/3.jpg',
-    description: 'A series of posters designed for a music festival featuring vibrant colors and typography.',
+    description: 'A series of posters designed featuring vibrant colors and typography.',
     tools: ['Adobe Photoshop', 'Adobe InDesign'],
     role: 'Graphic Designer',
     images: ['/Kay-works/2.jpg', '/Kay-works/3.jpg', '/Kay-works/5.jpg', '/Kay-works/9.jpg', '/Kay-works/12.jpg', '/Kay-works/16.jpg', '/Kay-works/17.jpg', '/Kay-works/18.jpg', '/Kay-works/19.jpg', '/Kay-works/20.png', '/Kay-works/21.png']
@@ -36,10 +36,10 @@ const Portfolio = ({
     title: 'Logo Collection',
     category: 'logo',
     thumbnail: '/Kay-works/1.jpg',
-    description: "Professional photo editing for a fashion brand's product catalog with consistent style and color grading.",
-    tools: ['Adobe Lightroom', 'Adobe Photoshop'],
-    role: 'Photo Editor',
-    images: ['https://images.unsplash.com/photo-1542038784456-1ea8e935640e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=800&q=80', 'https://images.unsplash.com/photo-1551028719-00167b16eac5?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=800&q=80']
+    description: "Professional logo Collection",
+    tools: [ 'Adobe Photoshop'],
+    role: 'Designer',
+    images: ['/Kay-works/1.jpg']
   }, 
   // {
   //   id: 5,

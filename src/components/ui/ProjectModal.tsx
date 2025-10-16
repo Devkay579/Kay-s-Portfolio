@@ -65,11 +65,7 @@ const ProjectModal = ({
               <p className="text-gray-700 mb-6">{project.description}</p>
               <h3 className="text-xl font-semibold mb-4">Process & Approach</h3>
               <p className="text-gray-700">
-                For this project, I focused on creating a design that would
-                effectively communicate the brand's values while ensuring a
-                seamless user experience. The process involved extensive
-                research, conceptualization, and multiple iterations to achieve
-                the final result.
+                My design process begins with understanding the purpose and audience of each project, whether it’s a school presidential campaign, chapel design, poster series, or logo. I research visual styles that align with the message, develop creative concepts through sketches and mood boards, and refine the best idea into a clean, expressive design. Every piece aims to communicate clearly, maintain visual consistency, and evoke the right emotion for its context, ensuring that the final work is both impactful and memorable.
               </p>
             </div>
             <div>

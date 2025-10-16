@@ -11,7 +11,7 @@ Modern hero section with designer introduction
 
 About section
 
-Projects gallery grid with hover previews
+Projects gallery grid with hover and modal previews
 
 A contact form that sends real emails via API
 
