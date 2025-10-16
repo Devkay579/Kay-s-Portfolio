@@ -8,38 +8,38 @@ const Portfolio = ({
     id: 1,
     title: 'School Presidential Campaign',
     category: 'Campaign',
-    thumbnail: '/public/images/4.jpg',
+    thumbnail: '/images/4.jpg',
     description: 'Complete campaign designs for school',
     tools: ['Adobe Illustrator', 'Photoshop'],
     role: 'Official Designer',
-    images: ['/public/images/4.jpg', '/public/images/7.jpg', '/public/images/8.jpg']
+    images: ['/images/4.jpg', '/images/7.jpg', '/images/8.jpg']
   }, {
     id: 2,
     title: 'School Chapel',
     category: 'Church',
-    thumbnail: '/public/images/6.jpg',
+    thumbnail: '/images/6.jpg',
     description: 'Detailed designs for church or chapel programs',
     tools: ['Photoshop'],
     role: 'Lead Designer',
-    images: ['/public/images/6.jpg', '/public/images/10.jpg', '/public/images/11.jpg', '/public/images/13.jpg']
+    images: ['/images/6.jpg', '/images/10.jpg', '/images/11.jpg', '/images/13.jpg']
   }, {
     id: 3,
     title: 'Poster Series',
     category: 'posters',
-    thumbnail: '/public/images/3.jpg',
+    thumbnail: '/images/3.jpg',
     description: 'A series of posters designed featuring vibrant colors and typography.',
     tools: ['Adobe Photoshop', 'Adobe InDesign'],
     role: 'Graphic Designer',
-    images: ['/public/images/2.jpg', '/public/images/3.jpg', '/public/images/5.jpg', '/public/images/9.jpg', '/public/images/12.jpg', '/public/images/16.jpg', '/public/images/17.jpg', '/public/images/18.jpg', '/public/images/19.jpg', '/public/images/20.png', '/public/images/21.png']
+    images: ['/images/2.jpg', '/images/3.jpg', '/images/5.jpg', '/images/9.jpg', '/images/12.jpg', '/images/16.jpg', '/images/17.jpg', '/images/18.jpg', '/images/19.jpg', '/images/20.png', '/images/21.png']
   }, {
     id: 4,
     title: 'Logo Collection',
     category: 'logo',
-    thumbnail: '/public/images/1.jpg',
+    thumbnail: '/images/1.jpg',
     description: "Professional logo Collection",
     tools: [ 'Adobe Photoshop'],
     role: 'Designer',
-    images: ['/public/images/1.jpg']
+    images: ['/images/1.jpg']
   }, 
   // {
   //   id: 5,
