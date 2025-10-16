@@ -8,38 +8,38 @@ const Portfolio = ({
     id: 1,
     title: 'School Presidential Campaign',
     category: 'Campaign',
-    thumbnail: '/Kay-works/4.jpg',
+    thumbnail: '/public/images/4.jpg',
     description: 'Complete campaign designs for school',
     tools: ['Adobe Illustrator', 'Photoshop'],
     role: 'Official Designer',
-    images: ['/Kay-works/4.jpg', '/Kay-works/7.jpg', '/Kay-works/8.jpg']
+    images: ['/public/images/4.jpg', '/public/images/7.jpg', '/public/images/8.jpg']
   }, {
     id: 2,
     title: 'School Chapel',
     category: 'Church',
-    thumbnail: '/Kay-works/6.jpg',
+    thumbnail: '/public/images/6.jpg',
     description: 'Detailed designs for church or chapel programs',
     tools: ['Photoshop'],
     role: 'Lead Designer',
-    images: ['/Kay-works/6.jpg', '/Kay-works/10.jpg', '/Kay-works/11.jpg', '/Kay-works/13.jpg']
+    images: ['/public/images/6.jpg', '/public/images/10.jpg', '/public/images/11.jpg', '/public/images/13.jpg']
   }, {
     id: 3,
     title: 'Poster Series',
     category: 'posters',
-    thumbnail: '/Kay-works/3.jpg',
+    thumbnail: '/public/images/3.jpg',
     description: 'A series of posters designed featuring vibrant colors and typography.',
     tools: ['Adobe Photoshop', 'Adobe InDesign'],
     role: 'Graphic Designer',
-    images: ['/Kay-works/2.jpg', '/Kay-works/3.jpg', '/Kay-works/5.jpg', '/Kay-works/9.jpg', '/Kay-works/12.jpg', '/Kay-works/16.jpg', '/Kay-works/17.jpg', '/Kay-works/18.jpg', '/Kay-works/19.jpg', '/Kay-works/20.png', '/Kay-works/21.png']
+    images: ['/public/images/2.jpg', '/public/images/3.jpg', '/public/images/5.jpg', '/public/images/9.jpg', '/public/images/12.jpg', '/public/images/16.jpg', '/public/images/17.jpg', '/public/images/18.jpg', '/public/images/19.jpg', '/public/images/20.png', '/public/images/21.png']
   }, {
     id: 4,
     title: 'Logo Collection',
     category: 'logo',
-    thumbnail: '/Kay-works/1.jpg',
+    thumbnail: '/public/images/1.jpg',
     description: "Professional logo Collection",
     tools: [ 'Adobe Photoshop'],
     role: 'Designer',
-    images: ['/Kay-works/1.jpg']
+    images: ['/public/images/1.jpg']
   }, 
   // {
   //   id: 5,

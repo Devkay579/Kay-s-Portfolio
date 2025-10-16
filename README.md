@@ -68,9 +68,9 @@ src/
 
 📸 Preview
 
-![App Preview](Kay-works/first.png)
-![App Preview](Kay-works/second.png)
-![App Preview](Kay-works/third.png)
+![App Preview](public/images//first.png)
+![App Preview](public/images/second.png)
+![App Preview](public/images//third.png)
 
 
 
