@@ -28,7 +28,7 @@ const Hero = () => {
         {/* Image/Graphic */}
         <div className="md:w-1/2 flex justify-center md:justify-end">
           <div className="relative w-64 h-64 md:w-80 md:h-80 rounded-full overflow-hidden border-4 border-white shadow-xl">
-            <img src="/kay.jpg" alt="Professional portrait" className="w-full h-full object-cover" />
+            <img src="images/kay.jpg" alt="Professional portrait" className="w-full h-full object-cover" />
           </div>
         </div>
       </div>
