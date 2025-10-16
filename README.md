@@ -68,7 +68,9 @@ src/
 
 📸 Preview
 
-(Insert a screenshot or hero banner image)
+![App Preview](Kay-works/first.png)
+![App Preview](Kay-works/second.png)
+![App Preview](Kay-works/third.png)
 
 
 
